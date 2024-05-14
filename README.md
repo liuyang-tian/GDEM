@@ -2,7 +2,7 @@
 
 This is the Pytorch implementation for ["Graph Distillation with Eigenbasis Matching"]().
 
-![](https://github.com/liuyang-tian/GDEM/blob/main/GDEM/EM.png)
+![](https://github.com/liuyang-tian/GDEM/blob/main/EM.png)
 
 ### Requirements
 ```
