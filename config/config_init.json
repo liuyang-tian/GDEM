@@ -1,0 +1,65 @@
+{
+    "citeseer": {
+        "epoch": 200,
+        "lr_feat": 0.005,
+        "wd_feat": 0.05,
+        "epoch_mlp": 100,
+        "lr": 0.05,
+        "weight_decay": 0.0005,
+        "dropout": 0.0
+    },
+    "pubmed": {
+        "epoch": 100,
+        "lr_feat": 0.01,
+        "wd_feat": 0.05,
+        "epoch_mlp": 400,
+        "lr": 0.01,
+        "weight_decay": 0.005,
+        "dropout": 0.05
+    },
+    "ogbn-arxiv": {
+        "epoch": 400,
+        "lr_feat": 0.01, 
+        "wd_feat": 0.005,
+        "epoch_mlp": 300,
+        "lr": 0.01,
+        "weight_decay": 0.005,
+        "dropout": 0.0
+    },
+    "flickr": {
+        "epoch": 500,
+        "lr_feat": 0.001,
+        "wd_feat": 0.0005,
+        "epoch_mlp": 400,
+        "lr": 0.05,
+        "weight_decay": 0.005,
+        "dropout": 0.1
+    },
+    "reddit": {
+        "epoch": 400,
+        "lr_feat": 0.05,
+        "wd_feat": 5e-5,
+        "epoch_mlp": 100,
+        "lr": 0.005,
+        "weight_decay": 0.005,
+        "dropout": 0.0
+    },
+    "squirrel": {
+        "epoch": 400,
+        "lr_feat": 0.005,
+        "wd_feat": 0.05,
+        "epoch_mlp": 100,
+        "lr": 0.005,
+        "weight_decay": 0.0005,
+        "dropout": 0.1
+    },
+    "twitch-gamer": {
+        "epoch": 500,
+        "lr_feat": 0.05,
+        "wd_feat": 0.5,
+        "epoch_mlp": 200,
+        "lr": 0.005,
+        "weight_decay": 0.005,
+        "dropout": 0.5
+    }
+  }
