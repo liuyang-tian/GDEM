@@ -1,6 +1,6 @@
 # Graph Distillation with Eigenbasis Matching (GDEM)
 
-This is the Pytorch implementation for ["Graph Distillation with Eigenbasis Matching"]().
+This is the Pytorch implementation for ["Graph Distillation with Eigenbasis Matching"](https://arxiv.org/pdf/2310.09202).
 
 ![](https://github.com/liuyang-tian/GDEM/blob/main/EM.png)
 
