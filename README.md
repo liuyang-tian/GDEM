@@ -35,11 +35,12 @@ Download the files and unzip them to `data` at the root directory.
 
 (4) you can evaluate the cross-architecture generalization performance of the synthetic graph on various GNNs (GCN, SGC, PPNP, ChebyNet, BernNet, GPR-GNN) by running test_other_arcs.py.
 
-<!--
 ## Cite
-
 Welcome to kindly cite our work with:
 ```
-
+@inproceedings{liugraph,
+  title={Graph Distillation with Eigenbasis Matching},
+  author={Liu, Yang and Bo, Deyu and Shi, Chuan},
+  booktitle={Forty-first International Conference on Machine Learning}
+}
 ```
--->
